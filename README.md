@@ -1,9 +1,9 @@
 This project used RTL.cs
 
-Features:
+# Features:
 
 Supports Arabic and Persian for now.
 
-TODO:
+# TODO:
 
-Just add "PersianUITextUnityUI" to your Text UI Object and fill "MainText" in this Component.
+Just Add PersianUITextUnityUI to your Text File and Fill MainText in this Component.
